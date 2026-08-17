@@ -1,0 +1,6 @@
+{
+  "name": "Grocery Store Management System",
+  "description": "A complete, local-first grocery store management and POS system with inventory, credit ledger (Udhaar), purchases, expenses, reports, bilingual support (English/Urdu), and XAMPP export package.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
